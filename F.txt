@@ -1,1 +1,8 @@
+squash_branch
 file f by lavi.
+
+this is file f
+
+this is add by vasu
+file f changed by lavi in local.
+
